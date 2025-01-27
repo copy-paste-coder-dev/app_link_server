@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.descope_flow_example",
+      "sha256_cert_fingerprints": [
+        "51:F3:36:CB:45:88:8B:DE:2F:83:16:66:53:F7:42:EF:3C:78:3B:2D:68:DC:E9:1D:B6:3B:71:63:73:74:9C:6B"
+      ]
+    }
+  }
+]
